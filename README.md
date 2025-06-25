@@ -2,6 +2,8 @@
 
 In the repository we will upload the jupyter notebooks we will use during the introdution to python course of the [Geographic Information Sciences master program of the Vrije Universiteit Amsterdam](https://vu.nl/en/education/master/geographical-information-sciences). 
 
+When starting, make sure to create a folder */data/input_data* where you unzip [this data](https://figshare.com/ndownloader/articles/25721754/versions/3).
+
 The notebooks are based on [this course](https://esciencecenter-digital-skills.github.io/geospatial-python/index.html) . Below you find an overview of which workshop UNIGIS lessons are related to which episode.
 
 | lesson workshop | teaching material it is based on |
@@ -14,4 +16,4 @@ The notebooks are based on [this course](https://esciencecenter-digital-skills.g
 |[03_01-1-access-data](03_day_3/03_01-1-access-data.ipynb) | [05-access-data](https://esciencecenter-digital-skills.github.io/geospatial-python/05-access-data.html)|
 |[03_02-1-access-data_chios](03_day_3/03_02-1-access-data_chios.ipynb) | [05-access-data](https://esciencecenter-digital-skills.github.io/geospatial-python/05-access-data.html)|
 
-Make sure to create a folder */data/input_data* where you unzip [this data](https://figshare.com/ndownloader/articles/25721754/versions/3).
+
